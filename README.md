@@ -1,0 +1,1 @@
+# aws-php-sdk-marketplace-integration
