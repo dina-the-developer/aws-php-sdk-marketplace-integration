@@ -2,6 +2,8 @@
 
 This code provides integration with the AWS Marketplace for retrieving customer entitlements based on a registration token. It utilizes the AWS SDK for PHP to interact with the AWS Marketplace Metering and Marketplace Entitlement Service APIs.
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 ## Requirements
 - PHP version 5.6 or higher
 - The AWS SDK for PHP installed in your project. You can install it using Composer by running the command
@@ -110,6 +112,9 @@ echo json_encode($response, JSON_PRETTY_PRINT);
 This project is licensed under the MIT License. Feel free to modify and use the code according to your needs.
 
 For more information and detailed usage instructions, please refer to the <a href="https://docs.aws.amazon.com/aws-sdk-php/" target="_blank">AWS SDK</a> for PHP documentation.
+
+## Disclaimer
+Please note that this script is provided as-is without any warranty. Use it at your own risk.
 
 ## Contact Me
 
